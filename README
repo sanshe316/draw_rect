@@ -1,0 +1,4 @@
+Draw rectangles on image given the locations of rectangles
+
+Compile:
+g++ -g -std=c++11 draw_rect.cpp `pkg-config --libs opencv` && ./a.out
